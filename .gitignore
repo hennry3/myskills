@@ -6,3 +6,5 @@
 .__applied
 .idea/
 .vscode/
+__pycache__/
+node_modules/
